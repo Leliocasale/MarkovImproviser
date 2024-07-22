@@ -28,7 +28,7 @@ You can build this project using CMake. You have to clone this repository, setup
 3. CMake
 
 ## Report
-'Improviser_Report.pdf'
+'Impro_Report.pdf'
 
 ## Presentation Video
 [Watch the video](https://drive.google.com/file/d/1BJ5qhqEYFdj-J91e_yI-TEbJwSifioy8/view?usp=sharing)
